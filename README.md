@@ -7,10 +7,8 @@
     </p>
     <p>🌟 Welcome to my corner of the coding universe! 🌟</p>
     <h4 align="left">My Open Source Projects</h4>
-    <table align="center">
-        <tr>
-            <td><a href="https://github.com/roosoars/HP-12C"</a> - HP-12C EMULATOR </td>
-            <td><a href="https://github.com/roosoars/Clean-Blog">esh</a> - SIMPLE BLOG</td>
-        </tr>
-    </table>
 </div>
+
+- <p><a href="https://github.com/roosoars/HP-12C"> HP-12C</a> HP-12C Emulator in HTML/CSS/JS</p>
+- <p><a href="https://github.com/roosoars/Clean-Blog"> CLeanBlog</a> Simple blog in HTML/CSS/JS/QuillJS/Firebase</p>
+
