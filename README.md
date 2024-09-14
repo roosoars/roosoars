@@ -12,3 +12,5 @@
 - <p><a href="https://github.com/roosoars/HP-12C"> HP-12C</a> HP-12C Emulator in HTML/CSS/JS</p>
 - <p><a href="https://github.com/roosoars/Clean-Blog"> CLeanBlog</a> Simple blog in HTML/CSS/JS/QuillJS/Firebase</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roosoars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
