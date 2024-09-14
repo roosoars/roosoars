@@ -13,5 +13,5 @@
 - <p><a href="https://github.com/roosoars/Clean-Blog"> CLeanBlog</a> Simple blog in HTML/CSS/JS/QuillJS/Firebase</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roosoars&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roosoars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roosoars&layout=donut)]
 
