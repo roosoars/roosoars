@@ -13,7 +13,6 @@
                               
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=roosoars&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosoars&layout=compact&langs_count=7&theme=default&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=roosoars&show_icons=true&theme=default&include_all_commits=true&count_private=true&token=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"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roosoars&layout=compact&langs_count=7&theme=default&include_all_commits=true&count_private=true&token=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"/>
 </div>
-
