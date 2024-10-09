@@ -16,7 +16,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api?username=roosoars&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api?username=roosoars&show_icons=true&theme=draculak&include_all_commits=true&count_private=true"
       />
       <source
         media="(prefers-color-scheme: light)"
@@ -32,7 +32,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api/top-langs/?username=roosoars&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true"
+        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api/top-langs/?username=roosoars&layout=compact&langs_count=7&theme=draculak&include_all_commits=true&count_private=true"
       />
       <source
         media="(prefers-color-scheme: light)"
