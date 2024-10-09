@@ -3,11 +3,6 @@
     <p align="center">
         <a href="https://linkedin.com/in/roosoars"></a>
     </p>
-    <h4 align="left">My Open Source Projects:</h4>
-</div>
-
-- <p><a href="https://github.com/roosoars/HP-12C"> HP-12C</a> HP-12C Emulator in HTML/CSS/JS</p>
-- <p><a href="https://github.com/roosoars/Clean-Blog"> CLeanBlog</a> Simple blog in HTML/CSS/JS/QuillJS/Firebase</p>
 
 <h4 align="left">About Me:</h4
                               
