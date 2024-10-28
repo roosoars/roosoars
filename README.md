@@ -11,7 +11,7 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api?username=roosoars&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api?username=roosoars&show_icons=true&include_all_commits=true&count_private=true"
       />
       <source
         media="(prefers-color-scheme: light)"
@@ -20,14 +20,14 @@
       <img
         loading="lazy"
         height="180em"
-        src="https://github-readme-stats-roosoars-projects.vercel.app/api?username=roosoars&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats-roosoars-projects.vercel.app/api?username=roosoars&show_icons=true&include_all_commits=true&count_private=true"
         alt="roosoars GitHub stats"
       />
     </picture>
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api/top-langs/?username=roosoars&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"
+        srcset="https://github-readme-stats-roosoars-projects.vercel.app/api/top-langs/?username=roosoars&layout=compact&langs_count=7&include_all_commits=true&count_private=true"
       />
       <source
         media="(prefers-color-scheme: light)"
