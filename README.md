@@ -3,6 +3,4 @@
     <p align="center">
         <a href="https://linkedin.com/in/roosoars"></a>
     </p>
-
-<h4 align="left">About Me:</h4
 </div>
