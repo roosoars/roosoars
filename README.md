@@ -1,5 +1,3 @@
-<h1 align="center"> Hi, I'm <a href="#" style="color: #3382ed">Rodrigo Soares</a></h1>
-
 ~~~javascript
 struct Developer {
     let name: String
