@@ -1,11 +1,18 @@
 <h1 align="center"> Hi, I'm <a href="#" style="color: #3382ed">Rodrigo Soares</a></h1>
 
 ~~~javascript
-const developer = {
-  	name: "Rodrigo",
-  	role: "Mobile Developer",
-  	skills: ["IOS", "SWIFT", "SWIFT UI"]
-};	
+struct Developer {
+    let name: String
+    let role: String
+    let skills: [String]
+}
+
+let developer = Developer (
+    name: "Rodrigo",
+    role: "Mobile Developer",
+    skills: ["IOS", "SWIFT", "SWIFT UI"]
+)
+
 ~~~
 
 <p align="center">
