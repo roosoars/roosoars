@@ -1,6 +1,13 @@
-<div align="left"); background-size: cover; background-position: center; padding: 20px;">
-    <h3>Hi 👋, I'm <a href="https://linkedin.com/in/roosoars">Rodrigo Soares </a><img src="cat.webp" width="50"/></h3> 
-    <p align="center">
-        <a href="https://linkedin.com/in/roosoars"></a>
-    </p>
-</div>
+<h1 align="center"> Hi, I'm <a href="#" style="color: #3382ed">Rodrigo Soares</a></h1>
+
+~~~javascript
+const developer = {
+  	name: "Rodrigo",
+  	role: "Mobile Developer",
+  	skills: ["IOS", "SWIFT", "SWIFT UI"]
+};	
+~~~
+
+<p align="center">
+Graduando em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU).
+</p>
