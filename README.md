@@ -6,7 +6,7 @@ struct Developer {
 }
 
 let developer = Developer (
-    name: "Rodrigo",
+    name: "Rodrigo Soares",
     role: "Mobile Developer",
     skills: ["IOS", "SWIFT", "SWIFT UI"]
 )
