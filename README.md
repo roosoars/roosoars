@@ -16,5 +16,5 @@ let developer = Developer (
 ~~~
 
 <p align="center">
-Graduando em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU).
+Graduado em Sistemas de Informação pela Universidade Federal de Uberlândia (UFU).
 </p>
