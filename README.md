@@ -9,7 +9,7 @@ struct Developer {
 let developer = Developer (
     name: "Rodrigo Soares",
     role: "Mobile Developer",
-    skills: ["IOS", "SWIFT", "SWIFT UI"]
+    skills: ["SWIFT", "JAVA", "KOTLIN"]
     certification: ["GitHub Foundations"]
 )
 
