@@ -1,3 +1,15 @@
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&width=600&lines=Oi,+me+chamo+Rodrigo+Soares.;Insert+Coin+to+Start...&cursor=_" alt="Typing SVG" />
-</a>
+# Rodrigo Soares
+
+<br/>
+
+```swift
+import Foundation
+
+struct Profile {
+    let name = "Rodrigo Soares"
+    let role = "Mobile Software Engineer"
+    
+    var focus: [String] {
+        return ["iOS Native", "Clean Code", "Performance"]
+    }
+}
