@@ -1,6 +1,10 @@
 
-# Hey There! 👋
-**I'm Rodrigo** - I'm a iOS Software Engineer
+# Eae beleza? 👋
+**Linguagens de Programação:**
 
+[![SkillIcons](https://skillicons.dev/icons?i=c,java,swift,kotlin,)](https://skillicons.dev)<br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,swift,java,mysql,git,)](https://skillicons.dev)<br/>
+**Banco de Dados:**
+
+[![SkillIcons](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)<br/>
+
