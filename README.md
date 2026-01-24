@@ -1,7 +1,3 @@
-### Rodrigo Soares
-
-<br/>
-
 ```swift
 import Foundation
 
