@@ -1,1 +1,1 @@
-Oi, vamos codar?
+Opa, cê tá bão, moço?
