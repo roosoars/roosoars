@@ -1,4 +1,4 @@
-# Rodrigo Soares
+### Rodrigo Soares
 
 <br/>
 
@@ -10,6 +10,6 @@ struct Profile {
     let role = "Mobile Software Engineer"
     
     var focus: [String] {
-        return ["iOS Native", "Clean Code", "Performance"]
+        return ["iOS Native", "Clean Code"]
     }
 }
