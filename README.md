@@ -4,8 +4,8 @@ I'm [Rodrigo S. Pinheiro](http://www.roosoars.com).
 
 <br/>
 
-Since 2020, I’ve been building my journey in software development, driven by the desire to create and turn ideas into real-world solutions. During this time, I started my degree in Information Systems and actively used online resources to deepen my knowledge in software engineering. Throughout this journey, I’ve developed mobile and backend projects while maintaining a full-time study routine. I have a proactive profile, strong problem-solving skills, and a clear focus on applying technology in practical ways.
+Since 2020, I have been building my career in software development, driven by a desire to create and transform ideas into real-world solutions. During this time, I began my degree in Information Systems and actively utilized online resources to deepen my knowledge of software engineering. Throughout this journey, I have developed mobile projects while balancing a full-time study schedule. I have a proactive mindset, strong problem-solving skills, and a clear focus on the practical application of technology.
 
-I’m particularly interested in building mobile applications and designing scalable backend systems. I value continuous learning and enjoy working through complex challenges.
+I have a particular interest in mobile app development. I value continuous learning and enjoy tackling complex challenges.
 
-Currently, I focus on Swift, SwiftUI, UIKit, Kotlin, Jetpack Compose, Java, Spring Boot, REST APIs, and microservices.
+Currently, I focus on Swift, SwiftUI, UIKit, REST APIs, and microservices.
